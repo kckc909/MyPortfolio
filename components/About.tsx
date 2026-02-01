@@ -64,7 +64,7 @@ export default function About() {
                     {/* About Content */}
                     <motion.div className="flex flex-col justify-center space-y-6" variants={itemVariants}>
                         <p className="text-lg md:text-xl text-gray-300 leading-relaxed">
-                            Hello! I'm <span className="text-neon-cyan font-semibold">Chu Đức Minh</span>,
+                            Hello! I&apos;m <span className="text-neon-cyan font-semibold">Chu Đức Minh</span>,
                             a developer on the journey to becoming a Full-stack Developer.
                         </p>
 

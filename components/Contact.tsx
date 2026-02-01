@@ -62,7 +62,7 @@ export default function Contact() {
                     transition={{ delay: 0.3 }}
                 >
                     <p className="text-xl md:text-2xl text-gray-300 mb-12">
-                        I'm always ready to connect and discuss new projects, collaboration opportunities,
+                        I&apos;m always ready to connect and discuss new projects, collaboration opportunities,
                         or simply chat about technology! 🚀
                     </p>
 
