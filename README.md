@@ -157,7 +157,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - **GitHub:** [@kckc909](https://github.com/kckc909)
 - **LinkedIn:** [kckc909](https://www.linkedin.com/in/kckc909/)
 - **Facebook:** [minh.chu.612600](https://www.facebook.com/minh.chu.612600)
-- **Zalo:** 0934206983
+- **Zalo:** 0934.206.983
 
 ## 💡 Acknowledgments
 
